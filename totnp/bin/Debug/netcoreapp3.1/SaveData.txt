@@ -1,0 +1,16 @@
+(Line2:PlayerLevel)(Line3:PlayerXp)(Line4:ExploreProgress)(Line5:Name)(Line11:ItemSlotA)(Line12:ItemSlotB)(Line13:ItemSlotC)(Line14:ItemSlotD)(Line15:ItemSlotE)
+1
+0
+1
+Player
+(Line4:ExploreProgress)[#=AreaQuantShown]
+
+
+
+
+// Items are in slots 11-15 for slot a, b, c, d, and e respectively
+a001
+b001
+c001
+d001
+e001

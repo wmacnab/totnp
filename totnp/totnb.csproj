@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>totnb</AssemblyName>
+    <RootNamespace>totnb</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Items\StoreItems\" />
+    <Folder Include="Items\RankTwo\" />
+    <Folder Include="Items\RankOne\" />
+    <Folder Include="Monsters\AreaOne\" />
+    <Folder Include="Monsters\AreaVault\" />
+  </ItemGroup>
+
+</Project>

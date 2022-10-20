@@ -1,0 +1,13 @@
+C:\Users\willi\source\repos\totnp\totnp\bin\Debug\netcoreapp3.1\totnp.exe
+C:\Users\willi\source\repos\totnp\totnp\bin\Debug\netcoreapp3.1\totnp.deps.json
+C:\Users\willi\source\repos\totnp\totnp\bin\Debug\netcoreapp3.1\totnp.runtimeconfig.json
+C:\Users\willi\source\repos\totnp\totnp\bin\Debug\netcoreapp3.1\totnp.runtimeconfig.dev.json
+C:\Users\willi\source\repos\totnp\totnp\bin\Debug\netcoreapp3.1\totnp.dll
+C:\Users\willi\source\repos\totnp\totnp\bin\Debug\netcoreapp3.1\totnp.pdb
+C:\Users\willi\source\repos\totnp\totnp\obj\Debug\netcoreapp3.1\totnp.csprojAssemblyReference.cache
+C:\Users\willi\source\repos\totnp\totnp\obj\Debug\netcoreapp3.1\totnp.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\totnp\totnp\obj\Debug\netcoreapp3.1\totnp.AssemblyInfo.cs
+C:\Users\willi\source\repos\totnp\totnp\obj\Debug\netcoreapp3.1\totnp.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\totnp\totnp\obj\Debug\netcoreapp3.1\totnp.dll
+C:\Users\willi\source\repos\totnp\totnp\obj\Debug\netcoreapp3.1\totnp.pdb
+C:\Users\willi\source\repos\totnp\totnp\obj\Debug\netcoreapp3.1\totnp.genruntimeconfig.cache

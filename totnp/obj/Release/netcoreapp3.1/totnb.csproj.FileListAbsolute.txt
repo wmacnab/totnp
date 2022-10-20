@@ -1,0 +1,13 @@
+C:\Users\willi\Desktop\Project\Backups\9-20-2020\totnp\totnp\bin\Release\netcoreapp3.1\totnb.exe
+C:\Users\willi\Desktop\Project\Backups\9-20-2020\totnp\totnp\bin\Release\netcoreapp3.1\totnb.deps.json
+C:\Users\willi\Desktop\Project\Backups\9-20-2020\totnp\totnp\bin\Release\netcoreapp3.1\totnb.runtimeconfig.json
+C:\Users\willi\Desktop\Project\Backups\9-20-2020\totnp\totnp\bin\Release\netcoreapp3.1\totnb.runtimeconfig.dev.json
+C:\Users\willi\Desktop\Project\Backups\9-20-2020\totnp\totnp\bin\Release\netcoreapp3.1\totnb.dll
+C:\Users\willi\Desktop\Project\Backups\9-20-2020\totnp\totnp\bin\Release\netcoreapp3.1\totnb.pdb
+C:\Users\willi\Desktop\Project\Backups\9-20-2020\totnp\totnp\obj\Release\netcoreapp3.1\totnb.csprojAssemblyReference.cache
+C:\Users\willi\Desktop\Project\Backups\9-20-2020\totnp\totnp\obj\Release\netcoreapp3.1\totnb.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\Project\Backups\9-20-2020\totnp\totnp\obj\Release\netcoreapp3.1\totnb.AssemblyInfo.cs
+C:\Users\willi\Desktop\Project\Backups\9-20-2020\totnp\totnp\obj\Release\netcoreapp3.1\totnb.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\Project\Backups\9-20-2020\totnp\totnp\obj\Release\netcoreapp3.1\totnb.dll
+C:\Users\willi\Desktop\Project\Backups\9-20-2020\totnp\totnp\obj\Release\netcoreapp3.1\totnb.pdb
+C:\Users\willi\Desktop\Project\Backups\9-20-2020\totnp\totnp\obj\Release\netcoreapp3.1\totnb.genruntimeconfig.cache
